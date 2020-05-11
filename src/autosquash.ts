@@ -35,7 +35,7 @@ type Author = {
   name: string;
 };
 
-const autosquashLabel = "autosquash";
+const autosquashLabel = "automerge";
 
 const updateableMergeableStates: MergeableState[] = [
   // When "Require branches to be up to date before merging" is checked
